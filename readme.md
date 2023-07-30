@@ -50,6 +50,11 @@ The predictions are plotted against the actual prices to visualize the performan
 ## Limitations
 The accuracy of the predictions depends on the quality and availability of historical stock price data.
 
+# Results
+![image](https://github.com/SouravRay17/Stock-Price-Predictor/assets/83729666/95b8e59b-9deb-4068-97e9-8ccfc1fafbba)
+![image](https://github.com/SouravRay17/Stock-Price-Predictor/assets/83729666/533230bc-8750-49b0-b6dc-f4a8903ca75c)
+
+
 Stock market trends are influenced by various factors, and this model does not take into account external factors such as news, market sentiment, or economic indicators.
 
 The predictions should be used for informational purposes only and should not be considered as financial advice. It is recommended to consult with a qualified financial advisor before making any investment decisions.
